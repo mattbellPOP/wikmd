@@ -1,0 +1,6 @@
+name = "wikmd"
+type = "webpack"
+account_id = "1f045b2c468f0c38ee2742632bab3400"
+workers_dev = false
+route = ""
+zone_id = ""
